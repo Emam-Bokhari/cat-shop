@@ -1,8 +1,9 @@
 import { useEffect } from "react"
 import { useState } from "react"
 import Cat from "../Cat/Cat"
+import PropTypes from 'prop-types'
 
-const Cats=()=>{
+const Cats=({handleCat})=>{
     const [cats,setCat]=useState([])
     useEffect(()=>{
         fetch("catData.json")
@@ -13,13 +14,18 @@ const Cats=()=>{
     return (
         <div>
 
-           <div className="grid grid-cols-3 gap-5 my-10 border-2 border-green-500">
+           <div className="grid grid-cols-1 lg:grid-cols-2  gap-5 my-10">
            {
-                cats.map(item=><Cat key={item.id} data={item} />)
+                cats.map(item=><Cat key={item.id} data={item} handleCat={handleCat}/>)
             }
            </div>
 
         </div>
     )
 }
+
+    Cats.propTypes={
+        handleCat:PropTypes.func.isRequired
+    }
+
 export default Cats
