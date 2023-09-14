@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "url": "https://cdn2.thecatapi.com/images/70f.jpg",
+      "width": 4468,
+      "height": 2616,
+      "name": "Fluffy",
+      "price": 250,
+      "breed": "Persian"
+    },
+    {
+      "id": 2,
+      "url": "https://cdn2.thecatapi.com/images/a3r.jpg",
+      "width": 640,
+      "height": 479,
+      "name": "Whiskers",
+      "price": 180,
+      "breed": "Siamese"
+    },
+    {
+      "id": 3,
+      "url": "https://cdn2.thecatapi.com/images/abh.jpg",
+      "width": 640,
+      "height": 480,
+      "name": "Mittens",
+      "price": 200,
+      "breed": "Maine Coon"
+    },
+    {
+      "id": 4,
+      "url": "https://cdn2.thecatapi.com/images/dlk.jpg",
+      "width": 999,
+      "height": 749,
+      "name": "Smokey",
+      "price": 150,
+      "breed": "British Shorthair"
+    },
+    {
+      "id": 5,
+      "url": "https://cdn2.thecatapi.com/images/dql.jpg",
+      "width": 2448,
+      "height": 1836,
+      "name": "Tiger",
+      "price": 220,
+      "breed": "Bengal"
+    },
+    {
+      "id": 6,
+      "url": "https://cdn2.thecatapi.com/images/MTg4MjM4Mg.jpg",
+      "width": 368,
+      "height": 491,
+      "name": "Fluffy",
+      "price": 250,
+      "breed": "Persian"
+    },
+    {
+      "id": 7,
+      "url": "https://cdn2.thecatapi.com/images/OfIuuOv07.jpg",
+      "width": 1200,
+      "height": 650,
+      "name": "Whiskers",
+      "price": 180,
+      "breed": "Siamese"
+    },
+    {
+      "id": 8,
+      "url": "https://cdn2.thecatapi.com/images/rLKF3Yzcf.jpg",
+      "width": 2062,
+      "height": 1418,
+      "name": "Mittens",
+      "price": 200,
+      "breed": "Maine Coon"
+    },
+    {
+      "id": 9,
+      "url": "https://cdn2.thecatapi.com/images/jVu6K43F7.jpg",
+      "width": 2000,
+      "height": 1423,
+      "name": "Smokey",
+      "price": 150,
+      "breed": "British Shorthair"
+    },
+    {
+      "id": 10,
+      "url": "https://cdn2.thecatapi.com/images/rEHfYqWUM.jpg",
+      "width": 1100,
+      "height": 733,
+      "name": "Tiger",
+      "price": 220,
+      "breed": "Bengal"
+    }
+  ]
+  
